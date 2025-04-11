@@ -26,7 +26,7 @@ Jeg utviklet all funksjonalitet relatert til **bookinger, arrangementer og målt
 
 **Refleksjon:**
 
-Det mest verdifulle i dette prosjektet var å lære hvordan flere deler og entiteter samhandler i en større applikasjon. Vi støtte på utfordringer med å koble sammen våre individuelle deler og strukturere menyen på en brukervennlig måte. For å løse dette brukte vi ChatGPT aktivt som veileder  til å forstå feilmeldinger og strukturere menyvalg. Dette har lært meg å jobbe mer strukturert, og jeg ser frem til å lære mer om databaser og GUI.
+Det mest verdifulle i dette prosjektet var å lære hvordan flere deler og entiteter samhandler i en større applikasjon. Vi støtte på utfordringer med å koble sammen våre individuelle deler og strukturere menyen på en brukervennlig måte. For å løse dette brukte vi ChatGPT aktivt som veileder til å forstå feilmeldinger og strukturere menyvalg. Dette har lært meg å jobbe mer strukturert, og jeg ser frem til å lære mer om databaser og GUI.
 
 ---
 
