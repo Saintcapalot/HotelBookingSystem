@@ -70,8 +70,8 @@ dotnet run
 
 ### 💾 Backup & Restore
 
-- `15`: Sikkerhetskopierer alle entiteter til `.json`-filer.
-- `16`: Gjenoppretter alle data fra `.json`.
+- `17`: Sikkerhetskopierer alle entiteter til `.json`-filer.
+- `18`: Gjenoppretter alle data fra `.json`.
 
 ---
 
