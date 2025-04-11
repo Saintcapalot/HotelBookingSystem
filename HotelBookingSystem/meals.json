@@ -1,0 +1,13 @@
+[
+  {
+    "MealId": 1,
+    "MealName": "Frokost",
+    "ClientId": 1,
+    "RoomId": 1,
+    "ExpectedAttendees": 15,
+    "MealDate": "2025-04-11T00:00:00+02:00",
+    "StartTime": "08:00:00",
+    "EndTime": "09:00:00",
+    "DietaryNotes": "Vegetar"
+  }
+]
