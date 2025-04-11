@@ -65,7 +65,7 @@ dotnet run
 
 ### 🧪 Debug Setup
 
-- Velg `14` i menyen for å fylle inn eksempeldata.
+- Velg `16` i menyen for å fylle inn eksempeldata.
 - Eksempeldata gjør det enklere å teste bookinger, arrangementer og måltider.
 
 ### 💾 Backup & Restore
